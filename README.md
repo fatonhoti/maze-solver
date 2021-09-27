@@ -11,5 +11,3 @@ Use by calling the Python script from a CLI with a parameter "size" indicating t
 python3 solver.py 40
 ```
 ![A solved 40 by 40 maze](./maze40.png)
-
-**Requirements:** PyGame
