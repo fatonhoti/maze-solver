@@ -144,7 +144,7 @@ def carve_out_maze():
         (neighbours, univisted_neighbour_exists) = has_unvisited_neighbours(c)
         if univisted_neighbour_exists:
 
-            # Push the current sell to the stack
+            # Push the current cell to the stack
             stack.append(c)
 
             # Pick one of the nighbours
